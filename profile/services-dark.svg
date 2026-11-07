@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 532" width="1280" height="532" role="img" aria-label="Services: product development, cloud and platform, systems integration, security assessment, startup cybersecurity.">
+  <text x="96" y="52" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#9198a1">Services</text>
+  <line x1="96" y1="84" x2="1184" y2="84" stroke="#30363d" stroke-width="1"/>
+  <text x="96" y="137" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="600" letter-spacing="-0.5" fill="#ffffff">Product development</text>
+  <text x="520" y="126" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#9198a1">Custom applications and APIs for a first product</text>
+  <text x="520" y="152" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#9198a1">or the next feature.</text>
+  <line x1="96" y1="172" x2="1184" y2="172" stroke="#30363d" stroke-width="1"/>
+  <text x="96" y="225" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="600" letter-spacing="-0.5" fill="#ffffff">Cloud and platform</text>
+  <text x="520" y="225" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#9198a1">Cloud-native platforms that scale with users.</text>
+  <line x1="96" y1="260" x2="1184" y2="260" stroke="#30363d" stroke-width="1"/>
+  <text x="96" y="313" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="600" letter-spacing="-0.5" fill="#ffffff">Systems integration</text>
+  <text x="520" y="313" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#9198a1">Connect the tools a team already uses, securely.</text>
+  <line x1="96" y1="348" x2="1184" y2="348" stroke="#30363d" stroke-width="1"/>
+  <text x="96" y="401" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="600" letter-spacing="-0.5" fill="#ffffff">Security assessment</text>
+  <text x="520" y="390" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#9198a1">Architecture and threat model review,</text>
+  <text x="520" y="416" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#9198a1">application security testing, prioritised findings.</text>
+  <line x1="96" y1="436" x2="1184" y2="436" stroke="#30363d" stroke-width="1"/>
+  <text x="96" y="489" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="600" letter-spacing="-0.5" fill="#ffffff">Startup cybersecurity</text>
+  <text x="520" y="478" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#9198a1">Secure MVP architecture, application security,</text>
+  <text x="520" y="504" font-family="Inter,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#9198a1">identity and access.</text>
+  <line x1="96" y1="524" x2="1184" y2="524" stroke="#30363d" stroke-width="1"/>
+</svg>
